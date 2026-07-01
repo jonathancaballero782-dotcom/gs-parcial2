@@ -1,0 +1,1 @@
+﻿Daily Scrum: reunion diaria breve (15 minutos) donde el equipo sincroniza el avance, comenta lo que hizo, lo que hara y si tiene impedimentos y Sprint Review: reunion al final del sprint donde el equipo presenta el incremento de producto a los stakeholders para recibir feedback.
