@@ -1,1 +1,2 @@
 ﻿Como gerente de producto quiero analizar las metricas de uso de la aplicacion para identificar las funcionalidades mas utilizadas y priorizar mejoras
+parcial avanzado
