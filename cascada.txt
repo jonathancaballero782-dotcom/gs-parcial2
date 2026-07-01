@@ -1,0 +1,1 @@
+﻿1 requerimientos 2 diseño 3 desarollo 4 testing 5 implementacion
